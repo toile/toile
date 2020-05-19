@@ -1,0 +1,20 @@
+{
+  "name": "toile",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["toile"],
+  "bugs": {
+    "email": "upcwangying@gmail.com",
+    "url": "https://github.com/toilejs/toile/issues/new"
+  },
+  "author": {
+    "name": "Ying Wang",
+    "url": "https://github.com/toilejs/toile",
+    "email": "upcwangying@gmail.com"
+  },
+  "license": "MIT"
+}
