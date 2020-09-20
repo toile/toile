@@ -11,6 +11,12 @@ export default {
       file: "dist/toile.common.js"
     },
     {
+      format: "iife",
+      file: "dist/toile.global.js",
+      // 【可选配置】If you do not supply "output.name", you may not be able to access the exports of an IIFE bundle.
+      name: "toile"
+    },
+    {
       format: "amd",
       file: "dist/toile.amd.js"
     },

@@ -1,12 +1,19 @@
 {
   "name": "toile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/toile.common.js",
+  "module": "dist/toile.esm.js",
+  "unpkg": "dist/toile.global.js",
+  "jsdelivr": "dist/toile.global.js",
   "scripts": {
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "index.js",
+    "dist"
+  ],
   "keywords": [
     "toile"
   ],
