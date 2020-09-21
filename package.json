@@ -1,6 +1,6 @@
 {
   "name": "toile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/toile.common.js",
   "module": "dist/toile.esm.js",
