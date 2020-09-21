@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://upcwangying.github.com/toile/toile/compare/v0.0.3...v0.0.4) (2020-09-21)
+
+
+### Bug Fixes
+
+* toile ([0a82c4e](https://upcwangying.github.com/toile/toile/commit/0a82c4e28266a9dec691ae76bd68b7770e4fc13b))
+
 ### 0.0.3 (2020-09-21)
 
 
