@@ -1,4 +1,4 @@
-export Component from './components/Component';
+export { default as Component } from './components/Component';
 import ElementWrapper from './components/ElementWrapper';
 import TextWrapper from './components/TextWrapper';
 
