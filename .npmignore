@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+node_modules
+.all-contributorsrc
+.editorconfig
+.eslintignore
+.eslintrc.js
+.prettierignore
+.prettierrc
+.gitignore
+.travis.yml
+package-lock.json
+yarn.lock

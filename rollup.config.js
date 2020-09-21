@@ -1,6 +1,7 @@
 import resolve from "@rollup/plugin-node-resolve";
+
 export default {
-  input: "index.js",
+  input: "src/toile.js",
   output: [
     {
       file: "dist/toile.esm.js",
