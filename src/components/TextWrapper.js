@@ -1,3 +1,5 @@
+import Component from './Component';
+
 import { RENDER_TO_DOM } from '../constants';
 
 import replaceContent from '../utils/replace-content';
