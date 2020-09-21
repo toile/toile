@@ -1,6 +1,6 @@
 {
   "name": "toile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/toile.common.js",
   "module": "dist/toile.esm.js",
@@ -8,6 +8,7 @@
   "jsdelivr": "dist/toile.global.js",
   "scripts": {
     "build": "rollup -c",
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
@@ -28,7 +29,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@rollup/plugin-node-resolve": "^9.0.0",
-    "rollup": "2.27.1"
+    "@rollup/plugin-node-resolve": "9.0.0",
+    "rollup": "2.27.1",
+    "standard-version": "9.0.0"
   }
 }
